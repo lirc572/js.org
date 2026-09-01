@@ -2230,6 +2230,7 @@ var cnames_active = {
   "nectar": "cname.vercel-dns.com", // noCF
   "nector": "cname.vercel-dns.com", // noCF
   "nefter": "nefter.github.io",
+  "needle": "fenwei-dev.github.io/needle.js",
   "nemo": "paypal.github.io/nemo", // noCF? (don´t add this in a new PR)
   "neo4": "janpeter.github.io/neo4js",
   "neox": "neoxn3il.netlify.app",
